@@ -1,2 +1,2 @@
 # agents-md
-test
+실습용
